@@ -1,0 +1,112 @@
+[
+  {
+    "jobId": "Job X",
+    "tasks": [
+      {
+        "name": "Task X.1",
+        "id": "task-x1",
+        "machine": "printer"
+      },
+      {
+        "name": "Task X.2",
+        "id": "task-x2",
+        "machine": "laminator"
+      },
+      {
+        "name": "Task X.3",
+        "id": "task-x3",
+        "machine": "trimmer"
+      },
+      {
+        "name": "Task X.4",
+        "id": "task-x4",
+        "machine": "cutter"
+      },
+      {
+        "name": "Task X.5",
+        "id": "task-x5",
+        "machine": "packaging"
+      }
+    ]
+  },
+  {
+    "jobId": "Job Y",
+    "tasks": [
+      {
+        "name": "Task Y.1",
+        "id": "task-y1",
+        "machine": "printer"
+      },
+      {
+        "name": "Task Y.2",
+        "id": "task-y2",
+        "machine": "laminator"
+      },
+      {
+        "name": "Task Y.3",
+        "id": "task-y3",
+        "machine": "trimmer"
+      }
+    ]
+  },
+  {
+    "jobId": "Job Z",
+    "tasks": [
+      {
+        "name": "Task Z.1",
+        "id": "task-z1",
+        "machine": "printer"
+      },
+      {
+        "name": "Task Z.2",
+        "id": "task-z2",
+        "machine": "laminator"
+      },
+      {
+        "name": "Task Z.3",
+        "id": "task-z3",
+        "machine": "cutter"
+      }
+    ]
+  },
+  {
+    "jobId": "Job W",
+    "tasks": [
+      {
+        "name": "Task W.1",
+        "id": "task-w1",
+        "machine": "printer"
+      },
+      {
+        "name": "Task W.2",
+        "id": "task-w2",
+        "machine": "laminator"
+      },
+      {
+        "name": "Task W.3",
+        "id": "task-w3",
+        "machine": "trimmer"
+      },
+      {
+        "name": "Task W.4",
+        "id": "task-w4",
+        "machine": "packaging"
+      }
+    ]
+  },
+  {
+    "jobId": "Job Q",
+    "tasks": [
+      {
+        "name": "Task Q.1",
+        "id": "task-q1",
+        "machine": "printer"
+      },
+      {
+        "name": "Task Q.2",
+        "id": "task-q2",
+        "machine": "cutter"
+      }
+    ]
+  }
+]

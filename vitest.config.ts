@@ -9,5 +9,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/vue-job-scheduler/",
+  test: {
+    environment: "jsdom",
+  },
 });
